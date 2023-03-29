@@ -55,6 +55,6 @@
     "prettier": "^2.x.x"
   },
   "dependencies": {
-    "prettier-html-templates": "^0.1.0"
+    "prettier-html-templates": "github:sc0v/prettier-html-templates"
   }
 }
